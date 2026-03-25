@@ -1,4 +1,4 @@
-My nvim config for Python Development.
+My neovim config for Python Development.
 
 - Neovim (Lua config)
 - Lazy.nvim (plugin manager)
